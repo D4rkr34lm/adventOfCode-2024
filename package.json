@@ -14,12 +14,16 @@
     "@types/node": "^22.10.1",
     "eslint": "^9.16.0",
     "globals": "^15.13.0",
-    "npx": "10.2.2",
     "prettier": "^3.4.1",
     "typescript": "^5.7.2",
-    "typescript-eslint": "^8.16.0"
+    "typescript-eslint": "^8.16.0",
+    "tsx": "4.19.2"
   },
   "dependencies": {
     "lodash": "^4.17.21"
+  },
+  "scripts": {
+    "exec": "tsx ./src/main.js",
+    "build": "tsc"
   }
 }

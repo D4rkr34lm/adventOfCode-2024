@@ -9,7 +9,7 @@ const config = {
   singleQuote: false,
   arrowParens: "always",
   singleAttributePerLine: true,
-  printWidth: 100,
+  printWidth: 80,
   endOfLine: "crlf",
 };
 
