@@ -1,0 +1,24 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": "always",
+      "source.addMissingImports.ts": "always",
+      "source.removeUnusedImports": "always",
+      "source.organizeImports": "always"
+    },
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "editor.tabSize": 2,
+    "files.eol": "\n",
+    "workbench.colorCustomizations": {
+      "titleBar.activeBackground": "#00ffa6",
+      "titleBar.activeForeground": "#000000"
+    },
+    "cSpell.words": ["Nuxt"]
+  }
+}

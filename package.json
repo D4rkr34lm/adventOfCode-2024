@@ -1,0 +1,22 @@
+{
+  "name": "adventofcode-2024",
+  "version": "1.0.0",
+  "description": "My personal repo for advent of code 2024",
+  "keywords": [
+    "AoC 2024"
+  ],
+  "author": "Manuel Frohn",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/lodash": "^4.17.13",
+    "eslint": "^9.16.0",
+    "globals": "^15.13.0",
+    "npx": "10.2.2",
+    "prettier": "^3.4.1",
+    "typescript": "^5.7.2",
+    "typescript-eslint": "^8.16.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
